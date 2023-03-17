@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&family=Teko:wght@300&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Rubik Iso', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid gray; 
+    width: 55%; 
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px; 
+    width: 200px; 
+    border: 1px solid blue; 
+    border-radius: 50%; 
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    color: rgb(80, 137, 118);
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Teko', sans-serif;
+}
+
